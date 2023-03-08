@@ -115,9 +115,12 @@
         <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saharsaleh22&show_icons=true&locale=en" alt="saharsaleh22" /></p>
 
       </th>
+  <th>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saharsaleh22&show_icons=true&locale=en" alt="saharsaleh22" /></p>
 
-    </tr>
-    </thead>
+      </th>
+    </tr> 
+  </thead> 
 
   </table>
 
