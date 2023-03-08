@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from palestine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharsaleh22&label=Profile%20views&color=0e75b6&style=flat" alt="saharsaleh22" /> </p>
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -19,13 +19,10 @@
 - 📫 my email **saharysaleh2000@gmail.com**
 
 - 📄  [my leetCode link](https://leetcode.com/sahar_saleh/)
+- 🔗  [my youtube channel](https://www.youtube.com/channel/UCd4xdaUr76mwyvAMkxvaJYA)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahar-saleh-059b11253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahar-saleh-059b11253" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucd4xdaur76mwyvamkxvajya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucd4xdaur76mwyvamkxvajya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sahar_saleh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sahar_saleh/" height="30" width="40" /></a>
-</p>
+
+
 <br/>
 
 ## 🛠️ My Skills
