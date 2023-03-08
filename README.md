@@ -108,10 +108,22 @@
 
 <br/>
 
+<table>
+  <thead>
+    <tr>
+      <th>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saharsaleh22&show_icons=true&locale=en" alt="saharsaleh22" /></p>
+
+      </th>
+      <th>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saharsaleh22&show_icons=true&locale=en&layout=compact" alt="saharsaleh22" /></p>
+
+      </th>
+    </tr>
+      </thead>
+
+  </table>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saharsaleh22&show_icons=true&locale=en" alt="saharsaleh22" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saharsaleh22&show_icons=true&locale=en&layout=compact" alt="saharsaleh22" /></p>
 
 
