@@ -102,6 +102,11 @@
   &emsp; 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   &emsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg" alt="pycharm" width="40" height="40"/> </a>
+  &emsp;
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/sdks-and-tools/eclipse%20icon%201.3778a4cbe978d8dfd73c091706e26aa6c57c65aa.jpeg" alt="Eclipse" width="40" height="40"/> </a>
+  &emsp;
+  
 
 </p>
 
