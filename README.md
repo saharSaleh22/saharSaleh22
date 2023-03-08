@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from palestine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharsaleh22&label=Profile%20views&color=0e75b6&style=flat" alt="saharsaleh22" /> </p>
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -14,15 +14,11 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1xR_7inwFaV_owFpMgv4T99nQgeSbPMUr).
 - :boom: You can visit [MY WEBSITE](https://saharsaleh22.github.io/portfolio/).
-<br>
-
-- 👨‍💻 my portfolio [https://saharsaleh22.github.io/portfolio/](https://saharsaleh22.github.io/portfolio/)
-
-- 📝 linkedin link [https://www.linkedin.com/in/sahar-saleh-059b11253](https://www.linkedin.com/in/sahar-saleh-059b11253)
+- 📝 [my linkedin link ](https://www.linkedin.com/in/sahar-saleh-059b11253)
 
 - 📫 my email **saharysaleh2000@gmail.com**
 
-- 📄 leetCode link [https://leetcode.com/sahar_saleh/](https://leetcode.com/sahar_saleh/)
+- 📄  [my leetCode link](https://leetcode.com/sahar_saleh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
