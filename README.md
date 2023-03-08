@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from palestine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharsaleh22&label=Profile%20views&color=0e75b6&style=flat" alt="saharsaleh22" /> </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width = 400px></picture>
 
