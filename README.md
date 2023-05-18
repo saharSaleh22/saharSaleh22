@@ -8,7 +8,7 @@
 
 <br>
 
-- :school: I am a `Fresh Graduated` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
+- :school: I am a `senior` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
 - :technologist: I love frontend devlopment and i enjoy writing codes to make GUI's.
 - :student: I have a Bachelor degree in computer engineering ,I’m currently training at GSG `React training`.
 - :nerd_face: Always `learning new things`.
