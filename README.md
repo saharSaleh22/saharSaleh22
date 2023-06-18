@@ -8,11 +8,11 @@
 
 <br>
 
-- :school: I am a `senior` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
+- :school: Computer Engineer in [An_Najah National University](https://www.najah.edu/ar/) .
 - :technologist: I love frontend devlopment and i enjoy writing codes to make GUI's.
 - :student: I have a Bachelor degree in computer engineering ,I’m currently training at GSG `React training`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1xR_7inwFaV_owFpMgv4T99nQgeSbPMUr).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13VBRptSwrxRtBOcQsa7AuxHUFtUIWrib/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://saharsaleh22.github.io/portfolio/).
 - 📝 [my linkedin link ](https://www.linkedin.com/in/sahar-saleh-059b11253)
 
