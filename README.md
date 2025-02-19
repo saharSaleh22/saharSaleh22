@@ -13,7 +13,6 @@
 - :student: I have a Bachelor degree in computer engineering ,I’m currently training at GSG `React training`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/13VBRptSwrxRtBOcQsa7AuxHUFtUIWrib/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](https://saharsaleh22.github.io/portfolio/).
 - 📝 [my linkedin link ](https://www.linkedin.com/in/sahar-saleh-059b11253)
 
 - 📫 my email **saharysaleh2000@gmail.com**
